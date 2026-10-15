@@ -15,6 +15,7 @@ Everything you need to set up a Gemini Enterprise app over the demo data for **G
 | `challenge/EASTER-EGG-HUNT.md` | Five movie references hidden in Graywing's files: one challenge per agent, answers at the bottom. |
 
 ## Get started (about 2 minutes)
+https://explore.qwiklabs.com/ilt/classrooms/21524
 
 You need a Google Cloud project where you can turn on Gemini Enterprise (for example a Qwiklabs lab project) and a Google Workspace account.
 
